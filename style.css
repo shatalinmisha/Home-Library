@@ -1,0 +1,47 @@
+.conteiner {
+    padding: 20px;
+}
+
+.title {
+    color: black;
+    margin: 0 0 15px;
+}
+
+.pushBtn {
+    color: #ffffff;
+    background-color: #0ea10e;
+    padding: 12px 15px;
+    margin: 0 5px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.searchBtn {
+    color: #ffffff;
+    background-color: #0004ff;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.item {
+    width: 300px;
+    margin: 0 0 10px;
+    
+}
+
+.item-color {
+    background-color: rgba(255, 255, 0, 0.7);
+    border-radius: 8px;
+    padding: 10px 10px;
+}
